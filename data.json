@@ -1,0 +1,682 @@
+{
+  "tratamientos": [
+    {
+      "id": "T001",
+      "nombre": "LIPOSONIC promo abdomen",
+      "precio": 95000.00,
+      "formasDePago": ["EFECTIVO"],
+      "duracionMinutos": 90
+    },
+    {
+      "id": "T002",
+      "nombre": "LIPOSONIC promo glúteos",
+      "precio": 140000.00,
+      "formasDePago": ["TRANSFERENCIA"],
+      "duracionMinutos": 120
+    },
+    {
+      "id": "T003",
+      "nombre": "LIPO salero",
+      "precio": 40000.00,
+      "formasDePago": ["PENDIENTE"],
+      "duracionMinutos": 60
+    },
+    {
+      "id": "T004",
+      "nombre": "LIPO abdomen alto o bajo",
+      "precio": 45000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 60
+    },
+    {
+      "id": "T005",
+      "nombre": "LIPO flancos",
+      "precio": 40000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 60
+    },
+    {
+      "id": "T006",
+      "nombre": "LIPO tira baja del corpiño",
+      "precio": 40000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 45
+    },
+    {
+      "id": "T007",
+      "nombre": "LIPO gluteos",
+      "precio": 75000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 90
+    },
+    {
+      "id": "T008",
+      "nombre": "LIPO subgluteos",
+      "precio": 35000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 45
+    },
+    {
+      "id": "T009",
+      "nombre": "LIPO entrepiernas",
+      "precio": 45000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 60
+    },
+    {
+      "id": "T010",
+      "nombre": "LIPO cara anterior",
+      "precio": 60000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 75
+    },
+    {
+      "id": "T011",
+      "nombre": "LIPO cara posterior",
+      "precio": 60000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 75
+    },
+    {
+      "id": "T012",
+      "nombre": "LIPO pantalón de montar",
+      "precio": 60000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 75
+    },
+    {
+      "id": "T013",
+      "nombre": "LIPO rodillas",
+      "precio": 35000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 45
+    },
+    {
+      "id": "T014",
+      "nombre": "EXILIS facial completo",
+      "precio": 90000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 90
+    },
+    {
+      "id": "T015",
+      "nombre": "EXILIS papada",
+      "precio": 40000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 45
+    },
+    {
+      "id": "T016",
+      "nombre": "EXILIS pantalón de montar",
+      "precio": 60000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 60
+    },
+    {
+      "id": "T017",
+      "nombre": "EXILIS entrepierna",
+      "precio": 60000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 60
+    },
+    {
+      "id": "T018",
+      "nombre": "EXILIS rodillas",
+      "precio": 45000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 45
+    },
+    {
+      "id": "T019",
+      "nombre": "EXILIS salero",
+      "precio": 50000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 60
+    },
+    {
+      "id": "T020",
+      "nombre": "EXILIS glúteos",
+      "precio": 80000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 90
+    },
+    {
+      "id": "T021",
+      "nombre": "EXILIS piernas ant o poster",
+      "precio": 80000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 90
+    },
+    {
+      "id": "T022",
+      "nombre": "EXILIS abdomen sin flancos",
+      "precio": 60000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 60
+    },
+    {
+      "id": "T023",
+      "nombre": "HIFU rostro, papada y cuello",
+      "precio": 100000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 120
+    },
+    {
+      "id": "T024",
+      "nombre": "HIFU facial",
+      "precio": 80000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 90
+    },
+    {
+      "id": "T025",
+      "nombre": "HIFU flacidez de abdomen",
+      "precio": 80000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 90
+    },
+    {
+      "id": "T026",
+      "nombre": "BIO ROLL media hora",
+      "precio": 35000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 30
+    },
+    {
+      "id": "T027",
+      "nombre": "BIO ROLL por 6 sesiones",
+      "precio": 200000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 30
+    },
+    {
+      "id": "T028",
+      "nombre": "TRATAMIENTO BÁSICO 8 sesiones",
+      "precio": 350000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 60
+    },
+    {
+      "id": "T029",
+      "nombre": "LIMPIEZA FACIAL",
+      "precio": 50000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 60
+    },
+    {
+      "id": "T030",
+      "nombre": "HIDRALIPS",
+      "precio": 90000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 60
+    },
+    {
+      "id": "T031",
+      "nombre": "LUZ PULSADA",
+      "precio": 120000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 45
+    },
+    {
+      "id": "T032",
+      "nombre": "MICRONEEDLING",
+      "precio": 80000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 60
+    },
+    {
+      "id": "T033",
+      "nombre": "EXOSOMAS",
+      "precio": 120000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 60
+    },
+    {
+      "id": "T034",
+      "nombre": "PEELING",
+      "precio": 90000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 45
+    },
+    {
+      "id": "T035",
+      "nombre": "ARMONIZACIÓN FACIAL",
+      "precio": 120000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 120
+    },
+    {
+      "id": "T036",
+      "nombre": "Dermaplan se agrega al facial",
+      "precio": 20000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 15
+    },
+    {
+      "id": "T037",
+      "nombre": "Depilación axilas",
+      "precio": 15000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 15
+    },
+    {
+      "id": "T038",
+      "nombre": "Depilación bozo",
+      "precio": 10000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 10
+    },
+    {
+      "id": "T039",
+      "nombre": "Depilación mentón",
+      "precio": 10000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 10
+    },
+    {
+      "id": "T040",
+      "nombre": "Depilación rostro completo",
+      "precio": 20000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 30
+    },
+    {
+      "id": "T041",
+      "nombre": "Depilación brazos",
+      "precio": 25000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 45
+    },
+    {
+      "id": "T042",
+      "nombre": "Depilación medio brazo",
+      "precio": 15000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 30
+    },
+    {
+      "id": "T043",
+      "nombre": "Depilación cavado bikini",
+      "precio": 15000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 20
+    },
+    {
+      "id": "T044",
+      "nombre": "Depilación cavado completo",
+      "precio": 20000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 30
+    },
+    {
+      "id": "T045",
+      "nombre": "Depilación cavado compl y tira",
+      "precio": 25000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 40
+    },
+    {
+      "id": "T046",
+      "nombre": "Depilación tira de cola",
+      "precio": 15000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 15
+    },
+    {
+      "id": "T047",
+      "nombre": "Depilación glúteos",
+      "precio": 25000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 30
+    },
+    {
+      "id": "T048",
+      "nombre": "Depilación espalda",
+      "precio": 20000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 45
+    },
+    {
+      "id": "T049",
+      "nombre": "Depilación media pierna",
+      "precio": 15000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 30
+    },
+    {
+      "id": "T050",
+      "nombre": "Depilación pierna completa",
+      "precio": 25000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 60
+    },
+    {
+      "id": "T051",
+      "nombre": "Cavado compl con tira y axilas",
+      "precio": 25000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 45
+    },
+    {
+      "id": "T052",
+      "nombre": "Cavado compl con tira y axilas y piernas",
+      "precio": 35000.00,
+      "formasDePago": ["EFECTIVO", "TRANSFERENCIA"],
+      "duracionMinutos": 90
+    }
+  ],
+  "productos": [
+    {
+      "id": "P001",
+      "nombre": "FAJA CALZA CON GANCHO M.L",
+      "precio": 35000.00,
+      "stock": 3.0
+    },
+    {
+      "id": "P002",
+      "nombre": "FAJA CALZA CON GANCHO XXL",
+      "precio": 35000.00,
+      "stock": 2.0
+    },
+    {
+      "id": "P003",
+      "nombre": "CALZA MODELADORA L",
+      "precio": 25000.00,
+      "stock": 1.0
+    },
+    {
+      "id": "P004",
+      "nombre": "CALZA SEGUNDA PIE L",
+      "precio": 35000.00,
+      "stock": 4.0
+    },
+    {
+      "id": "P005",
+      "nombre": "CALZA SEGUNDA PIE XL",
+      "precio": 35000.00,
+      "stock": 4.0
+    },
+    {
+      "id": "P006",
+      "nombre": "CALZA SEGUNDA PIEL XXL",
+      "precio": 35000.00,
+      "stock": 4.0
+    },
+    {
+      "id": "P007",
+      "nombre": "BODY BLANCO CON BROCHE XL",
+      "precio": 30000.00,
+      "stock": 2.0
+    },
+    {
+      "id": "P008",
+      "nombre": "BODY COMPLETO S",
+      "precio": 35000.00,
+      "stock": 4.0
+    },
+    {
+      "id": "P009",
+      "nombre": "BODY COMPLETO M",
+      "precio": 35000.00,
+      "stock": 4.0
+    },
+    {
+      "id": "P010",
+      "nombre": "BODY COPLETO L",
+      "precio": 35000.00,
+      "stock": 3.0
+    },
+    {
+      "id": "P011",
+      "nombre": "BODY COMPLETO XL",
+      "precio": 35000.00,
+      "stock": 1.0
+    },
+    {
+      "id": "P012",
+      "nombre": "CALZAS M-L",
+      "precio": 25000.00,
+      "stock": 2.0
+    },
+    {
+      "id": "P013",
+      "nombre": "BOMBACHA FAJA M",
+      "precio": 25000.00,
+      "stock": 2.0
+    },
+    {
+      "id": "P014",
+      "nombre": "FAJA INVISIBLE",
+      "precio": 25000.00,
+      "stock": 1.0
+    },
+    {
+      "id": "P015",
+      "nombre": "FRASCO LIMPIADOR",
+      "precio": 15000.00,
+      "stock": 3.0
+    },
+    {
+      "id": "P016",
+      "nombre": "TOALLITAS ROSAS",
+      "precio": 6000.00,
+      "stock": 3.0
+    },
+    {
+      "id": "P017",
+      "nombre": "SERUM REAFIRMANTE RETINOL",
+      "precio": 22000.00,
+      "stock": 4.0
+    },
+    {
+      "id": "P018",
+      "nombre": "SERUM TEI FUCCIA",
+      "precio": 19000.00,
+      "stock": 4.0
+    },
+    {
+      "id": "P019",
+      "nombre": "SERUM TEI ROSA",
+      "precio": 19000.00,
+      "stock": 4.0
+    },
+    {
+      "id": "P020",
+      "nombre": "CREMA TYL ANTIAGE",
+      "precio": 25000.00,
+      "stock": 4.0
+    },
+    {
+      "id": "P021",
+      "nombre": "CREMA TYL ACLARANTE",
+      "precio": 25000.00,
+      "stock": 4.0
+    },
+    {
+      "id": "P022",
+      "nombre": "CREMA TYL ULTRA HUMECTANTE",
+      "precio": 25000.00,
+      "stock": 4.0
+    },
+    {
+      "id": "P023",
+      "nombre": "CREMA DE DIA TYL Con Carité",
+      "precio": 25000.00,
+      "stock": 3.0
+    },
+    {
+      "id": "P024",
+      "nombre": "CREMA DE NOCHE TYL Con Carité",
+      "precio": 25000.00,
+      "stock": 3.0
+    },
+    {
+      "id": "P025",
+      "nombre": "ESPUMA DE LIMPIEZA colágeno",
+      "precio": 28000.00,
+      "stock": 3.0
+    },
+    {
+      "id": "P026",
+      "nombre": "ESPUMA DE LIMPIEZA hialurónico",
+      "precio": 28000.00,
+      "stock": 3.0
+    },
+    {
+      "id": "P027",
+      "nombre": "ESPUMA DE LIMPIEZA vit c",
+      "precio": 28000.00,
+      "stock": 0.0
+    },
+    {
+      "id": "P028",
+      "nombre": "ESPUMA DE LIMPIEZA aloe",
+      "precio": 28000.00,
+      "stock": 1.0
+    },
+    {
+      "id": "P029",
+      "nombre": "ESPUMA DE LIMPIEZA te verde",
+      "precio": 28000.00,
+      "stock": 2.0
+    },
+    {
+      "id": "P030",
+      "nombre": "Dr Rashel Collagen",
+      "precio": 25000.00,
+      "stock": 3.0
+    },
+    {
+      "id": "P031",
+      "nombre": "Dr Rashel Hialurónico",
+      "precio": 25000.00,
+      "stock": 2.0
+    },
+    {
+      "id": "P032",
+      "nombre": "Dr Rashel Vit C",
+      "precio": 25000.00,
+      "stock": 2.0
+    },
+    {
+      "id": "P033",
+      "nombre": "TONER VIT C",
+      "precio": 30000.00,
+      "stock": 4.0
+    },
+    {
+      "id": "P034",
+      "nombre": "FACE SERUM VIT C",
+      "precio": 28000.00,
+      "stock": 4.0
+    },
+    {
+      "id": "P035",
+      "nombre": "HYALURONIC ACID",
+      "precio": 29000.00,
+      "stock": 4.0
+    },
+    {
+      "id": "P036",
+      "nombre": "THE SNAIL caracol",
+      "precio": 29000.00,
+      "stock": 6.0
+    },
+    {
+      "id": "P037",
+      "nombre": "EYE CREAM contorno de ojos",
+      "precio": 20000.00,
+      "stock": 4.0
+    },
+    {
+      "id": "P038",
+      "nombre": "FACIAL CLEANSER",
+      "precio": 25000.00,
+      "stock": 4.0
+    },
+    {
+      "id": "P039",
+      "nombre": "BOLITA SUPER SERUM hyalurónico",
+      "precio": 30000.00,
+      "stock": 5.0
+    },
+    {
+      "id": "P040",
+      "nombre": "BOLITA SUPER SERUM Ceramidas",
+      "precio": 30000.00,
+      "stock": 3.0
+    },
+    {
+      "id": "P041",
+      "nombre": "BOLITA SUPER SERUM VIT C",
+      "precio": 30000.00,
+      "stock": 5.0
+    },
+    {
+      "id": "P042",
+      "nombre": "BOLITA SUPER SERUM NIAC",
+      "precio": 30000.00,
+      "stock": 5.0
+    },
+    {
+      "id": "P043",
+      "nombre": "SERUM Thelma Antiage",
+      "precio": 20000.00,
+      "stock": 3.0
+    },
+    {
+      "id": "P044",
+      "nombre": "SERUM Thelma Contorno ojos",
+      "precio": 20000.00,
+      "stock": 3.0
+    },
+    {
+      "id": "P045",
+      "nombre": "SERUM Thelma Bifásico",
+      "precio": 20000.00,
+      "stock": 3.0
+    },
+    {
+      "id": "P046",
+      "nombre": "CLAY MASK ROSA",
+      "precio": 18000.00,
+      "stock": 4.0
+    },
+    {
+      "id": "P047",
+      "nombre": "CLAY MASK VERDE",
+      "precio": 18000.00,
+      "stock": 4.0
+    },
+    {
+      "id": "P048",
+      "nombre": "CLAY MASK NEGRA",
+      "precio": 18000.00,
+      "stock": 4.0
+    },
+    {
+      "id": "P049",
+      "nombre": "MÁSCARA BABA DE CARACOL",
+      "precio": 12000.00,
+      "stock": 2.0
+    },
+    {
+      "id": "P050",
+      "nombre": "MÁSCARA COLLAGEN",
+      "precio": 12000.00,
+      "stock": 2.0
+    },
+    {
+      "id": "P051",
+      "nombre": "MÁSCARA VIT C",
+      "precio": 12000.00,
+      "stock": 5.0
+    },
+    {
+      "id": "P052",
+      "nombre": "MÁSCARA HYALUR",
+      "precio": 12000.00,
+      "stock": 5.0
+    }
+  ]
+}
