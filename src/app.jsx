@@ -1,5 +1,5 @@
 import React from 'react';
-import { Tratamientos } from './Tratamientos.jsx'; 
+import { Tratamientos } from './components/Tratamientos.jsx'; 
 import './index.css'
 
 function App() {
